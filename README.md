@@ -6,7 +6,7 @@ To become a sponsor:
 
 [GitHub Sponsors](https://github.com/sponsors/semihyagli)
 
-[Buy me a coffee](buymeacoffee.com/semihyagli)
+[Buy me a coffee](https://buymeacoffee.com/semihyagli)
 
 
 This repo contains segmented images for the labeled part of the STL10 Dataset. 
