@@ -7,7 +7,7 @@ To become a sponsor:
 [GitHub Sponsors](https://github.com/sponsors/semihyagli) <br/>
 [Buy me a coffee](https://buymeacoffee.com/semihyagli) <br/>
 
-You can also sponsor us by downloading our free application to your devices:
+You can also sponsor us by downloading our free application, **_Etiqueta_**, to your devices:
 
 [Etiqueta on iOS or Apple Chip Macs](https://apps.apple.com/us/app/etiqueta/id6504646776) <br/>
 [Etiqueta on Android](https://play.google.com/store/apps/details?id=com.aidatalabel.etiqueta) <br/>
