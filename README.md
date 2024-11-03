@@ -8,6 +8,11 @@ To become a sponsor:
 
 [Buy me a coffee](https://buymeacoffee.com/semihyagli)
 
+You can also sponsor us by downloading our free application to your devices:
+
+[Etiqueta on iOS](https://apps.apple.com/us/app/etiqueta/id6504646776) <br/>
+[Etiqueta on Android](https://play.google.com/store/apps/details?id=com.aidatalabel.etiqueta) <br/>
+
 
 This repo contains segmented images for the labeled part of the STL10 Dataset. 
 
