@@ -4,9 +4,8 @@ Please consider sponsoring this repo so that we can continue to develop high-qua
 
 To become a sponsor:
 
-[GitHub Sponsors](https://github.com/sponsors/semihyagli)
-
-[Buy me a coffee](https://buymeacoffee.com/semihyagli)
+[GitHub Sponsors](https://github.com/sponsors/semihyagli) <br/>
+[Buy me a coffee](https://buymeacoffee.com/semihyagli) <br/>
 
 You can also sponsor us by downloading our free application to your devices:
 
