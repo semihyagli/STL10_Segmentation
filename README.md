@@ -9,7 +9,7 @@ To become a sponsor:
 
 You can also sponsor us by downloading our free application to your devices:
 
-[Etiqueta on iOS](https://apps.apple.com/us/app/etiqueta/id6504646776) <br/>
+[Etiqueta on iOS or Apple Chip Macs](https://apps.apple.com/us/app/etiqueta/id6504646776) <br/>
 [Etiqueta on Android](https://play.google.com/store/apps/details?id=com.aidatalabel.etiqueta) <br/>
 
 
