@@ -15,4 +15,26 @@ You can also sponsor us by downloading our free application, **_Etiqueta_**, to 
 
 This repo contains segmented images for the labeled part of the STL10 Dataset. 
 
-If you use this dataset in your research please do not forget to cite:
+If you use this dataset in your research please do not forget to cite: <br/>
+
+
+Class | airplane | bird | car | cat | deer | 
+--- | --- | --- | --- | --- | --- |
+original  | ![airplane](examples/original_airplane_4599.png) | ![bird](examples/original_bird_2297.png) | ![car](examples/original_car_2606.png) | ![cat](examples/original_cat_546.png) | ![deer](examples/original_deer_3472.png) | 
+segmented | ![airplane](examples/segmented_airplane_4599.png) | ![bird](examples/segmented_bird_2297.png) | ![car](examples/segmented_car_2606.png) | ![cat](examples/segmented_cat_546.png) | ![deer](examples/segmented_deer_3472.png) | 
+
+dog | horse | monkey | ship | truck | 
+original  |
+segmented |
+
+![dog](examples/original)
+![horse](examples/original)
+![monkey](examples/original)
+![ship](examples/original)
+![truck](examples/original)
+
+![dog](examples/segmented)
+![horse](examples/segmented)
+![monkey](examples/segmented)
+![ship](examples/segmented)
+![truck](examples/segmented)
