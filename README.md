@@ -27,3 +27,9 @@ Class | dog | horse | monkey | ship | truck |
 --- | --- | --- | --- | --- | --- |
 original  | ![dog](examples/original) | ![horse](examples/original) | ![monkey](examples/original) | ![ship](examples/original) | ![truck](examples/original) | 
 segmented | ![dog](examples/segmented) | ![horse](examples/segmented) | ![monkey](examples/segmented) | ![ship](examples/segmented) | ![truck](examples/segmented) | 
+
+
+Notes: 
+'1495' 'cat_0' mark is in fact a 'dog_0'.
+'6417' 'cat_0' mark is in fact a 'dog_0'.
+'1718' 'cat_1' mark is in fact a 'dog_1'.
