@@ -32,6 +32,8 @@ segmented | ![dog](examples/segmented) | ![horse](examples/segmented) | ![monkey
 Notes: 
 '1495' 'cat_0' mark is in fact a 'dog_0'.
 '6417' 'cat_0' mark is in fact a 'dog_0'.
-'1718' 'cat_1' mark is in fact a 'dog_1'.
-'1138' 'dog_1' mark is in fact a 'cat_1'.
-'1484' 'dog_1', 'dog_2', 'dog_3' are in fact 'sheep_1', 'sheep_2', 'sheep_3'.
+'1718' 'cat_1' mark is in fact a 'dog_0'.
+'1138' 'dog_1' mark is in fact a 'cat_0'.
+'1484' 'dog_1', 'dog_2', 'dog_3' are in fact 'sheep_0', 'sheep_1', 'sheep_2'.
+'6566' 'dog_0' and 'dog_1' marks are in fact 'cat_0', and 'dog_0'.
+'7902' 'dog_0' and 'dog_1' marks are in fact 'cat_0', and 'dog_0'.
