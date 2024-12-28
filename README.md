@@ -29,7 +29,7 @@ original  | ![dog](examples/original_dog_2537.png ) | ![horse](examples/original
 segmented | ![dog](examples/segmented_dog_2537.png) | ![horse](examples/segmented) | ![monkey](examples/segmented) | ![ship](examples/segmented) | ![truck](examples/segmented) | 
 
 
-Notes: 
+### Notes: 
 '1495' 'cat_0' mark is in fact a 'dog_0'. <br/>
 '6417' 'cat_0' mark is in fact a 'dog_0'. <br/>
 '1718' 'cat_1' mark is in fact a 'dog_0'. <br/>
