@@ -25,15 +25,15 @@ segmented | ![airplane](examples/segmented_airplane_4599.png) | ![bird](examples
 
 Class | dog | horse | monkey | ship | truck | 
 --- | --- | --- | --- | --- | --- |
-original  | ![dog](examples/original) | ![horse](examples/original) | ![monkey](examples/original) | ![ship](examples/original) | ![truck](examples/original) | 
-segmented | ![dog](examples/segmented) | ![horse](examples/segmented) | ![monkey](examples/segmented) | ![ship](examples/segmented) | ![truck](examples/segmented) | 
+original  | ![dog](examples/original_dog_2537.png ) | ![horse](examples/original) | ![monkey](examples/original) | ![ship](examples/original) | ![truck](examples/original) | 
+segmented | ![dog](examples/segmented_dog_2537.png) | ![horse](examples/segmented) | ![monkey](examples/segmented) | ![ship](examples/segmented) | ![truck](examples/segmented) | 
 
 
 Notes: 
-'1495' 'cat_0' mark is in fact a 'dog_0'.
-'6417' 'cat_0' mark is in fact a 'dog_0'.
-'1718' 'cat_1' mark is in fact a 'dog_0'.
-'1138' 'dog_1' mark is in fact a 'cat_0'.
-'1484' 'dog_1', 'dog_2', 'dog_3' are in fact 'sheep_0', 'sheep_1', 'sheep_2'.
-'6566' 'dog_0' and 'dog_1' marks are in fact 'cat_0', and 'dog_0'.
-'7902' 'dog_0' and 'dog_1' marks are in fact 'cat_0', and 'dog_0'.
+'1495' 'cat_0' mark is in fact a 'dog_0'. <br/>
+'6417' 'cat_0' mark is in fact a 'dog_0'. <br/>
+'1718' 'cat_1' mark is in fact a 'dog_0'. <br/>
+'1138' 'dog_1' mark is in fact a 'cat_0'. <br/>
+'1484' 'dog_1', 'dog_2', 'dog_3' are in fact 'sheep_0', 'sheep_1', 'sheep_2'. <br/>
+'6566' 'dog_0' and 'dog_1' marks are in fact 'cat_0', and 'dog_0'. <br/>
+'7902' 'dog_0' and 'dog_1' marks are in fact 'cat_0', and 'dog_0'. <br/>
