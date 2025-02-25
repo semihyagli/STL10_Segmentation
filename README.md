@@ -13,20 +13,30 @@ You can also sponsor us by downloading our free application, **_Etiqueta_**, to 
 [Etiqueta on Android](https://play.google.com/store/apps/details?id=com.aidatalabel.etiqueta) <br/>
 
 
-This repo contains segmented images for the labeled part of the STL10 Dataset. 
+This repo contains segmented images for the labeled part of the [STL10 Dataset](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://cs.stanford.edu/~acoates/stl10/&ved=2ahUKEwidyq31o9-LAxUQbvUHHeAOIx0QFnoECAgQAQ&usg=AOvVaw1TdzbOwKAoAz_-kLc5rghT). 
 
 If you use this dataset in your research please do not forget to cite: <br/>
 
 ```
 @techreport{yagli2025etiqueta,
-  author    = {Semih Yagli},
-  title     = {Etiqueta: AI-Aided, Gamified Data Labeling to Label and Segment Data},
-  year      = {2025},
-  number    = {TR-2025-0001},
-  address   = {NJ, USA},
-  month     = Apr.,
-  url       = {https://www.aidatalabel.com/reports/TR-2025-0001.pdf},
+  author      = {Semih Yagli},
+  title       = {Etiqueta: AI-Aided, Gamified Data Labeling to Label and Segment Data},
+  year        = {2025},
+  number      = {TR-2025-0001},
+  address     = {NJ, USA},
+  month       = Apr.,
+  url         = {https://www.aidatalabel.com/reports/TR-2025-0001.pdf},
   institution = {AI Data Label},
+}
+```
+```
+@inproceedings{coates2011analysis,
+  title     = {An analysis of single-layer networks in unsupervised feature learning},
+  author    = {Coates, Adam and Ng, Andrew and Lee, Honglak},
+  booktitle = {Proceedings of the fourteenth international conference on artificial intelligence and statistics},
+  pages     = {215--223},
+  year      = {2011},
+  organization={JMLR Workshop and Conference Proceedings}
 }
 ```
 
