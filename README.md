@@ -1,6 +1,6 @@
 # STL10_Segmentation
 
-Please consider sponsoring this repo so that we can continue to develop high-quality datasets for the ML/AI research.
+Please consider sponsoring this repo so that we can continue to develop high-quality datasets for the AI/ML research.
 
 To become a sponsor:
 
@@ -17,6 +17,19 @@ This repo contains segmented images for the labeled part of the STL10 Dataset.
 
 If you use this dataset in your research please do not forget to cite: <br/>
 
+```
+@techreport{yagli2025etiqueta,
+  author    = {Semih Yagli},
+  title     = {Etiqueta: AI-Aided, Gamified Data Labeling to Label and Segment Data},
+  year      = {2025},
+  number    = {TR-2025-0001},
+  address   = {NJ, USA},
+  month     = Apr.,
+  url       = {https://www.aidatalabel.com/reports/TR-2025-0001.pdf},
+  institution = {AI Data Label},
+}
+```
+
 
 Class | airplane | bird | car | cat | deer | 
 --- | --- | --- | --- | --- | --- |
@@ -25,8 +38,8 @@ segmented | ![airplane](examples/segmented_airplane_4599.png) | ![bird](examples
 
 Class | dog | horse | monkey | ship | truck | 
 --- | --- | --- | --- | --- | --- |
-original  | ![dog](examples/original_dog_2537.png ) | ![horse](examples/original) | ![monkey](examples/original) | ![ship](examples/original) | ![truck](examples/original) | 
-segmented | ![dog](examples/segmented_dog_2537.png) | ![horse](examples/segmented) | ![monkey](examples/segmented) | ![ship](examples/segmented) | ![truck](examples/segmented) | 
+original  | ![dog](examples/original_dog_2537.png ) | ![horse](examples/original_horse_6056.png)  | ![monkey](examples/original_monkey_2987.png) | ![ship](examples/original_ship_1628.png) | ![truck](examples/original_truck_2999.png) | 
+segmented | ![dog](examples/segmented_dog_2537.png) | ![horse](examples/segmented_horse_6056.png) | ![monkey](examples/segmented_monkey_2987.png) | ![ship](examples/segmented_ship_1628.png) | ![truck](examples/segmented_truck_2999.png) | 
 
 
 ### Notes: 
