@@ -1,4 +1,4 @@
-# STL10_Segmentation
+# STL10 - Segmentation
 
 Please consider sponsoring this repo so that we can continue to develop high-quality datasets for the AI/ML research.
 
@@ -25,7 +25,7 @@ If you use this dataset in your research please do not forget to cite: <br/>
   number      = {TR-2025-0001},
   address     = {NJ, USA},
   month       = Apr.,
-  url         = {https://www.aidatalabel.com/reports/TR-2025-0001.pdf},
+  url         = {https://www.aidatalabel.com/technical_reports/aidatalabel_tr_2025_0001.pdf},
   institution = {AI Data Label},
 }
 ```
