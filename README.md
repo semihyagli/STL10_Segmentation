@@ -1,6 +1,6 @@
 # STL10 - Segmentation
 
-Please consider sponsoring this repo so that we can continue to develop high-quality datasets for the AI/ML research.
+Please consider sponsoring this repo so that we can continue to develop high-quality datasets for the AI and ML research.
 
 To become a sponsor:
 
@@ -13,7 +13,10 @@ You can also sponsor us by downloading our free application, **_Etiqueta_**, to 
 [Etiqueta on Android](https://play.google.com/store/apps/details?id=com.aidatalabel.etiqueta) <br/>
 
 
-This repo contains segmented images for the labeled part of the [STL10 Dataset](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://cs.stanford.edu/~acoates/stl10/&ved=2ahUKEwidyq31o9-LAxUQbvUHHeAOIx0QFnoECAgQAQ&usg=AOvVaw1TdzbOwKAoAz_-kLc5rghT). 
+This repo contains segmented images for the labeled part of the [STL-10 Dataset](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://cs.stanford.edu/~acoates/stl10/&ved=2ahUKEwidyq31o9-LAxUQbvUHHeAOIx0QFnoECAgQAQ&usg=AOvVaw1TdzbOwKAoAz_-kLc5rghT).  <br/>
+More information on the original STL-10 dataset can be found here: https://cs.stanford.edu/~acoates/stl10/ <br/>
+Thanks to Martin Tutek, the original STL-10 dataset can be downloaded via the python code here: https://github.com/mttk/STL10
+
 
 If you use this dataset in your research please do not forget to cite: <br/>
 
@@ -40,6 +43,8 @@ If you use this dataset in your research please do not forget to cite: <br/>
 }
 ```
 
+Note: If you notice any errors and/or if you have comments/ideas relevant to this dataset or Etiqueta in general, please reach me out at [contact@aidatalabel.com](mailto:contact@aidatalabel.com).
+
 
 Class | airplane | bird | car | cat | deer | 
 --- | --- | --- | --- | --- | --- |
@@ -53,6 +58,8 @@ segmented | ![dog](examples/segmented_dog_2537.png) | ![horse](examples/segmente
 
 
 ### Notes: 
+We have caught the following errors in the test part of the STL-10 dataset: <br/>
+
 '1495' 'cat_0' mark is in fact a 'dog_0'. <br/>
 '6417' 'cat_0' mark is in fact a 'dog_0'. <br/>
 '1718' 'cat_1' mark is in fact a 'dog_0'. <br/>
